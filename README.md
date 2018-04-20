@@ -1,5 +1,5 @@
 # Interactive-design-with-Ableton-with-Kinect
-This code is made in collaboration with https://github.com/mikkelmedm in Oktober 2013.
+This code is made in collaboration with Mikkel Loose https://github.com/mikkelmedm in Oktober 2013.
 
 This code uses the Skeleton tracking library for Processing to track body movements with a Microsoft Kinect camera. 
 Using the promidi library to generate midi signals captured by Ableton live. 
